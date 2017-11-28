@@ -1,0 +1,51 @@
+h1 {
+  color: green;
+}
+
+.contacts-container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contacts-form-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2vh;
+}
+
+.contacts-form-container input {
+  width: 100%;
+  margin: auto;
+}
+
+.contacts-form-container button {
+  background-color: lightgray;
+  width: 100%;
+  margin: auto;
+  margin: 1vh;
+}
+
+.contacts-container-list {
+  color: darkslategrey;
+}
+
+.contacts-container-item {
+  background-color: lightgrey;
+  margin: 2vh;
+  border-radius: 10px;
+  padding: 2vh;
+  letter-spacing: 2px;
+}
+
+.name {
+  color: green;
+  font-weight: bolder;
+  font-size: 3.5vh;
+  letter-spacing: 3px;
+}

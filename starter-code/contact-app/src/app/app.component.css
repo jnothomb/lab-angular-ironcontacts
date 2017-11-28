@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  font-family: montserrat;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  background-color: lightcoral;
+}
+
+h1 {
+  color: darkblue;
+  font-weight: bolder;
+  letter-spacing: 2vh;
+  text-align: center;
+  margin: 35px;
+}
